@@ -3,3 +3,4 @@ git is a free software distributes ubder the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 merge branch
+test the git stash
